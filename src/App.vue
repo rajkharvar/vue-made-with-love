@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <MadeWithLove by="Raj Kharvar" link="https://github.com" />
+    <MadeWithLove code by="Raj Kharvar" link="https://github.com" />
   </div>
 </template>
 

@@ -15,7 +15,7 @@ import 'vue-made-with-love'
 import 'vue-made-with-love/dist/vue-made-with-love.css'
 ```
 
-#### add Component in ```App.vue```
+#### Add Component in ```App.vue```
 ```vue
 <made-with-love by='John Doe' link='https://johndoe.dev' />
 ```

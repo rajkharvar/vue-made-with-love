@@ -34,3 +34,7 @@ import 'vue-made-with-love/dist/vue-made-with-love.css'
 ```vue
 <made-with-love by="John Doe" link="https://johndoe.dev" />
 ```
+
+### Preview
+
+<img src="https://i.ibb.co/b227cBD/vue-made-with-love-preview.png" alt="vue-made-with-love-preview" border="0" />

@@ -24,9 +24,9 @@ npm install vue-made-with-love
 #### Import `vue-made-with-love` component and style in `main.js`
 
 ```js
-import 'vue-made-with-love'
+import "vue-made-with-love";
 
-import 'vue-made-with-love/dist/vue-made-with-love.css'
+import "vue-made-with-love/dist/vue-made-with-love.css";
 ```
 
 #### Add Component in `App.vue`
@@ -37,4 +37,4 @@ import 'vue-made-with-love/dist/vue-made-with-love.css'
 
 ### Preview
 
-<img src="https://i.ibb.co/b227cBD/vue-made-with-love-preview.png" alt="vue-made-with-love-preview" border="0" />
+<img src="https://i.ibb.co/b227cBD/vue-made-with-love-preview.png" alt="vue-made-with-love-preview" border="0" width="100%" />

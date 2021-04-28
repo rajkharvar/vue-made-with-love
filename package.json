@@ -9,7 +9,7 @@
   },
   "main": "./dist/vue-made-with-love.common.js",
   "dependencies": {
-    "core-js": "^3.6.4",
+    "core-js": "^3.11.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
